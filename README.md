@@ -6,7 +6,7 @@ An AI chatbot built using Google's Generative AI model that can answer user ques
 ## Features
 - Conversational AI chatbot
 - Generates intelligent responses
-- Built using Google Generative AI API
+- Built using Google Gemini Flash model and Google Studio API key.
 - Runs on Google Colab
 - Simple user interface
 
