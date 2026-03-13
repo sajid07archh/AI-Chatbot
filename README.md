@@ -20,3 +20,6 @@ An AI chatbot built using Google's Generative AI model that can answer user ques
 1. Clone the repository
 2. Add your API key
 3. Run the notebook
+
+
+ Note: This project is currently under development and future updates will include additional features.
