@@ -8,12 +8,10 @@ An AI chatbot built using Google's Generative AI model that can answer user ques
 - Generates intelligent responses
 - Built using Google Gemini Flash model and Google Studio API key.
 - Runs on Google Colab
-- Simple user interface
 
 ## Tech Stack
 - Python
 - Google Generative AI
-- Gradio
 - Google Colab
 
 ## How to Run
